@@ -16,7 +16,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
 
     val CITY: String = "Delhi,IN"
-    val API: String = "14e606fbb1175f70d9b12183ee1a927e"
+    val API: String = "HERE INSERT THE WEATHER API KEY"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
